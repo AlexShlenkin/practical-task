@@ -1,4 +1,6 @@
-﻿
+﻿  
+  //Задача 2: 
+
 //Console.WriteLine("Введите первое число");
 //int number =Convert.ToInt32(Console.ReadLine());
 //Console.WriteLine("Введите второе число");
@@ -14,6 +16,7 @@
 //Console.WriteLine (number2);
 //}
 
+//Задача 4:
 
 //Console.WriteLine("Введите первое число");
 //int number =Convert.ToInt32(Console.ReadLine());
@@ -36,14 +39,28 @@
 //{
 //Console.WriteLine (max);
 //}
+ 
+ //Задача 10:
 
-int nam = new Random (). Next (1,10) ;
-int nam1 = new Random (). Next (1,10) ;
-int nam2 = new Random (). Next (1,10) ;
-int max = nam+nam1+nam2;  
+//Console.WriteLine("Введите трёхзгачое число");
+//int num =Convert.ToInt32(Console.ReadLine());
+//int num1 = 100;
+//int num2 = (num%num1) / 10;
+//{
+  //Console.Write("Получаем вторую цифру - ");
+  //Console.WriteLine(num2);
 
-//Console.WriteLine(nam);
-Console.WriteLine(max);
+//} 
+
+// Задача 13
+//Console.WriteLine("Введите трёхзначое число");
+//string num = Console.ReadLine();
+
+//Console.WriteLine(num[2]);
+    
+
+
+
 
 
 
