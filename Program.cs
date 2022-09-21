@@ -95,14 +95,16 @@
 //     Console.WriteLine("Distance is \n" + d);
 //     return;
 // }
+// Задача 23
+// Console.WriteLine("Введите число, ");
+// int nomber =Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("Введите число");
-int nomber =Convert.ToInt32(Console.ReadLine());
-for (int a = 1; a <= nomber; a++ );
-double result = Math.Pow(a , 3);
- {
-       Console.WriteLine("result");
-   }
+// for(int a = 1; a <= nomber; a++ ) {
+
+// double num = Math.Pow( a , 3);
+ 
+//        Console.WriteLine(num);
+//    }
 
 
 
