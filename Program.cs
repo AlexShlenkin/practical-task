@@ -58,51 +58,51 @@
 
 //Console.WriteLine(num[2]);
 
-//Console.WriteLine("Введите число");
-//int num =Convert.ToInt32(Console.ReadLine());
+// Задача 19
 
-//if  (num < 1 || num > 7) ;
+// Console.WriteLine("Введите пятизначное число");
+// string num = Console.ReadLine();
+// if ((num [0] + num [1]) == (num [4] + num [3]))
+// {
+// Console.WriteLine("число является палиндромом");
+ 
+// }
+// else
+//    {
+//        Console.WriteLine("число не является палиндромом");
+//    }
 
-//if (num==1)
-//{
-  //Console.WriteLine("Понедельник");
-//}
-//if (num==2)
-//{
-//  Console.WriteLine("Вторник");
-//}
-//if (num==3)
-//{
-  //Console.WriteLine("Среда");
-//}
-//if (num==4)
-//{
-  //Console.WriteLine("Четверг");
-//}
-//if (num==5)
-//{
-  //Console.WriteLine("Пятница");
-//}
-//if (num==6)
-//{
- // Console.WriteLine("Суббота");
-//}
-//if (num==7)
-//{
-  ///Console.WriteLine("Воскрксенье");
-//}
-  //  else
-   // {
-     //   Console.WriteLine("Ошибка");
+// Задача 21
+
+// Console.WriteLine("Введите X 1");
+// int x1 =Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите Y 1");
+// int y1 =Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите Z 1");
+// int z1 =Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите X 2");
+// int x2 =Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите Y 2");
+// int y2 =Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите Z 2");
+// int z2 =Convert.ToInt32(Console.ReadLine());
+	
+// {
+//     double d = Math.Pow((Math.Pow(x2 - x1, 2) +
+//                          Math.Pow(y2 - y1, 2) +
+//                          Math.Pow(z2 - z1, 2) *
+//                                    1.0), 0.5);
+//     Console.WriteLine("Distance is \n" + d);
+//     return;
+// }
 
 Console.WriteLine("Введите число");
-    
-
-
-
-
-
-
+int nomber =Convert.ToInt32(Console.ReadLine());
+for (int a = 1; a <= nomber; a++ );
+double result = Math.Pow(a , 3);
+ {
+       Console.WriteLine("result");
+   }
 
 
 
